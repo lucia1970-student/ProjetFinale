@@ -1,9 +1,0 @@
-Flask
-torch
-librosa
-soundfile
-scipy
-matplotlib
-pandas
-neat-python
-numpy
